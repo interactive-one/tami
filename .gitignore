@@ -1,3 +1,13 @@
-node_modules
 npm-debug.log
-
+node_modules/
+.sass-cache/
+.DS_Store
+bower_components/
+sassdoc/
+.idea
+PhpStorm-*
+assets/ione3_gallery/
+/vendor
+.svn
+rsn.prefs
+yarn.lock
